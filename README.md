@@ -97,7 +97,7 @@
 ### Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone [https://github.com/Dashaklen/Project_2_HH.git](https://github.com/Dashaklen/Project_2_HH)
+   git clone [https://github.com/Twi1ightFox/Project_2_HH.git](https://github.com/Twi1ightFox/Project_2_HH)
 2. Настройка подключения к базе данных
 Для подключения к базе данных вам необходимо создать файл `.env` в корневой директории проекта. Пример содержимого:
 
